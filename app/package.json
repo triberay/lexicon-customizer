@@ -16,7 +16,7 @@
     "fs-extra": "^0.30.0",
     "fs-promise": "^0.4.1",
     "immutable": "^3.8.1",
-    "lexicon-ux": "^1.0.4",
+    "lexicon-ux": "^1.0.25",
     "lodash": "^4.2.0",
     "node-sass": "3.8.0",
     "react": "^0.14.6",
